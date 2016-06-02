@@ -1,0 +1,31 @@
+
+{
+  "name": "react-native-photo-browser-xc",
+  "version": "0.2.2",
+  "description": "Local and remote photo browser with captions, selections and grid view support for react native.Forked From react-native-photo-browser",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "photo browser",
+    "image gallery",
+    "media gallery",
+    "ios",
+    "android"
+  ],
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiongchuan86/react-native-photo-browser-xc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiongchuan86/react-native-photo-browser-xc/issues"
+  },
+  "author": "xiongchuan <xiongchuan86@vip.qq.com>",
+  "homepage": "https://github.com/xiongchuan86/react-native-photo-browser-xc",
+  "dependencies": {
+    "react-native-progress": "^3.0.0"
+  }
+}
